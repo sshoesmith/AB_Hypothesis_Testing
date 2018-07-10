@@ -6,8 +6,6 @@ the website in an effort to increase the "conversion rate" (buying product). The
 company determine if they should stay with the old website, convert to the new site, or run the old vs. new experiment
 for longer.
 
-This was completed in a jupyter notebook. To install the jupyter notebook application visit:
-
 
 Work was performed in a jupyter notebook. The link to download the jupyter notebook application can be found here:
 

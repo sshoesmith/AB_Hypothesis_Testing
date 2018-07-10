@@ -1,7 +1,7 @@
 # AB_Hypothesis_Testing
 Completion of a Udacity Data Analyst Nanodegree Project (AB Hypothesis Testing) using Python 3
 
-This project was completed using a dataset from an e-commerce testing. The company changed
+This project was completed using a dataset from an e-commerce website. The company changed
 the website in an effort to increase the "conversion rate" (buying product). The goal of the project was to help the
 company determine if they should stay with the old website, convert to the new site, or run the old vs. new experiment
 for longer.
